@@ -14,7 +14,7 @@ button {
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
 }
-.passo{
+.passo {
     display: none;
 }
 .passo.ativo {
@@ -26,6 +26,6 @@ main {
     max-width: 90%;
 }
 
-img{
+img  {
     max-width: 90%;
 }
